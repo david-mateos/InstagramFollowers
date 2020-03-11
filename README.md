@@ -4,3 +4,5 @@ post count for a given instagram username.
 
 Selenium and Chromedriver are two dependencies neeeded. 
 Dowload link: https://chromedriver.chromium.org/downloads 
+
+Make sure the .exe file is accesible to selenium
